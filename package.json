@@ -1,0 +1,42 @@
+{
+  "name": "nutriai-scraper",
+  "version": "1.0.0",
+  "description": "Data scraping system for NutriAI - Restaurant and menu data collection worldwide",
+  "main": "data-scraper.js",
+  "scripts": {
+    "start": "node data-scraper.js",
+    "restaurants": "node data-scraper.js restaurants",
+    "menus": "node data-scraper.js menus",
+    "all": "node data-scraper.js all"
+  },
+  "keywords": [
+    "scraping",
+    "restaurants",
+    "food-delivery",
+    "nutrition",
+    "data-collection",
+    "captcha-solving"
+  ],
+  "author": "NutriAI Team",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^3.11.3",
+    "axios": "^1.6.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutriai/nutriai-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nutriai/nutriai-scraper/issues"
+  },
+  "homepage": "https://github.com/nutriai/nutriai-scraper#readme"
+}
