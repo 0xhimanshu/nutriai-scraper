@@ -16,11 +16,23 @@ Comprehensive scraping solution for NutriAI app - collects restaurant data and m
 
 ## 🌍 Coverage
 
-### Cities Supported:
-- **India:** Mumbai, Delhi, Bangalore, Chennai, Hyderabad, Pune
-- **UAE:** Dubai, Abu Dhabi, Sharjah  
-- **USA:** New York, Los Angeles, Chicago
-- **UK:** London, Manchester
+### 🌍 Unlimited City Support:
+**Works for ANY city worldwide!** Just provide the city name:
+
+```bash
+# Any city, any country - no limitations!
+node universal-scraper.js restaurants --city "Tokyo" --country "Japan"
+node universal-scraper.js restaurants --city "Lagos" --country "Nigeria"
+node universal-scraper.js restaurants --city "São Paulo" --country "Brazil"
+node universal-scraper.js restaurants --city "Sydney" --country "Australia"
+```
+
+**Popular cities tested:**
+- **India:** Mumbai, Delhi, Bangalore, Chennai, Hyderabad, Pune, Kolkata, Ahmedabad
+- **UAE:** Dubai, Abu Dhabi, Sharjah, Ajman
+- **USA:** New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia  
+- **UK:** London, Manchester, Birmingham, Leeds
+- **Global:** Tokyo, Singapore, Bangkok, Paris, Berlin, Toronto, Sydney...
 
 ### Expected Results:
 - **5,000-20,000 restaurants** across all cities
@@ -38,23 +50,29 @@ Comprehensive scraping solution for NutriAI app - collects restaurant data and m
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/nutriai-scraper.git
+git clone https://github.com/0xhimanshu/nutriai-scraper.git
 cd nutriai-scraper
 
-# Install dependencies
+# Install dependencies  
 npm install
 
 # Configure environment
 cp .env.example .env
-# Add your API keys to .env file
+# Add your Google Places API key to .env file
 
 # Initialize database (run this from main NutriAI app)
 curl http://localhost:3000/api/db/init
 
-# Start scraping
-npm run restaurants  # Scrape restaurant data
-npm run menus       # Scrape menu data  
-npm run all         # Run everything
+# Scrape any city worldwide!
+node universal-scraper.js restaurants --city "Mumbai" --country "India"
+node universal-scraper.js restaurants --city "Dubai" --country "UAE"
+node universal-scraper.js restaurants --city "your-city-here"
+
+# Scrape menus from discovered restaurants
+node universal-scraper.js menus
+
+# Bulk scrape major cities
+node universal-scraper.js restaurants --all-major
 ```
 
 ## 🔧 Configuration
