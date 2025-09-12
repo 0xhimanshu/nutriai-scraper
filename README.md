@@ -6,13 +6,14 @@ Comprehensive scraping solution for NutriAI app - collects restaurant data and m
 
 ## 🚀 Features
 
-- **Google Places API Integration** - Restaurant discovery across 15+ major cities
-- **CAPTCHA Solving** - 2captcha service integration for protected sites
-- **Stealth Scraping** - Puppeteer with anti-detection measures
-- **Global Coverage** - India, UAE, USA, UK markets
-- **Platform Support** - Zomato, Swiggy, Talabat, DoorDash, Uber Eats
-- **MySQL Database** - Structured data storage with progress tracking
-- **Rate Limiting** - Respectful scraping with delays
+- **🌍 Unlimited Global Coverage** - ANY city worldwide (Tokyo, Lagos, São Paulo, etc.)
+- **🕷️ Pure Website Scraping** - NO platform APIs required (scrapes websites directly)
+- **🧩 CAPTCHA Solving** - 2captcha service integration for protected sites
+- **🤖 Stealth Mode** - Puppeteer with anti-detection measures
+- **📍 Smart Discovery** - Google Places API for restaurant finding
+- **💾 MySQL Integration** - Structured data storage with progress tracking
+- **⚡ Rate Limiting** - Respectful scraping with delays
+- **🔍 Universal Platform Support** - Zomato, Swiggy, Talabat, DoorDash, Uber Eats (via website scraping)
 
 ## 🌍 Coverage
 
@@ -80,19 +81,21 @@ node universal-scraper.js restaurants --all-major
 ### Required API Keys:
 ```bash
 # .env file
-GOOGLE_PLACES_API_KEY=your_google_places_api_key
-TWOCAPTCHA_API_KEY=your_2captcha_api_key
+GOOGLE_PLACES_API_KEY=your_google_places_api_key  # REQUIRED for restaurant discovery
+TWOCAPTCHA_API_KEY=your_2captcha_api_key          # OPTIONAL for CAPTCHA solving
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=your_mysql_password
 DB_NAME=nutriai_dev
 ```
 
-### Optional Platform Keys:
-```bash
-ZOMATO_API_KEY=your_zomato_api_key
-SWIGGY_PARTNER_KEY=your_swiggy_partner_key
-```
+### ⚠️ NO PLATFORM APIs NEEDED:
+- ❌ **NO Zomato API required** - Scrapes directly from zomato.com website
+- ❌ **NO Swiggy API required** - Scrapes directly from swiggy.com website  
+- ❌ **NO Uber Eats API required** - Scrapes directly from ubereats.com website
+- ❌ **NO other platform APIs** - Pure website scraping with CAPTCHA handling
+
+**Only Google Places API is required for restaurant discovery!**
 
 ## 🛡️ CAPTCHA Handling
 
