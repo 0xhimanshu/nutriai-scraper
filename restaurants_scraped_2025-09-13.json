@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Collections\nExplore curated lists of top restaurants, cafes, pubs, and bars in Mumbai, based on tren",
+    "text": "Collections\nExplore curated lists of top restaurants, cafes, pubs, and bars in Mumbai, based on trends\nAll collections in Mumbai",
+    "rating": "",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.060Z"
+  },
+  {
+    "name": "Best Pubs & Bars\n\n47 Places",
+    "text": "Best Pubs & Bars\n\n47 Places",
+    "rating": "",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.060Z"
+  },
+  {
+    "name": "Omakase Bars\n\n8 Places",
+    "text": "Omakase Bars\n\n8 Places",
+    "rating": "",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.060Z"
+  },
+  {
+    "name": "Iconic Restaurants\n\n23 Places",
+    "text": "Iconic Restaurants\n\n23 Places",
+    "rating": "",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.060Z"
+  },
+  {
+    "name": "Promoted\nFlat 15% OFF\nTanatan\n4.6\n\nNorth Indian, Mughlai, South Indian, Seafood, Biryani, Desserts, ",
+    "text": "Promoted\nFlat 15% OFF\nTanatan\n4.6\n\nNorth Indian, Mughlai, South Indian, Seafood, Biryani, Desserts, Beverages\n\n₹1,800 for two\n\nDadar Shivaji Park, Mum",
+    "rating": "4.6",
+    "cuisine": "North Indian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Promoted\nStella\n4.5\n\nNorth Indian, Asian, Continental, Bar Food, Chinese, Finger Food, Beverages\n\n₹2",
+    "text": "Promoted\nStella\n4.5\n\nNorth Indian, Asian, Continental, Bar Food, Chinese, Finger Food, Beverages\n\n₹2,500 for two\n\nChembur, Mumbai\n\nCloses in 54 minute",
+    "rating": "4.5",
+    "cuisine": "North Indian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Asian, Modern Indian, Sushi, Chinese, Biryani, Desserts, Beverages\n\n₹1,600 for two",
+    "text": "Asian, Modern Indian, Sushi, Chinese, Biryani, Desserts, Beverages\n\n₹1,600 for two",
+    "rating": "",
+    "cuisine": "Indian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Promoted\nThe Bigg Small Cafe + Bar\n4.5\n\nChinese, Continental, North Indian\n\n₹1,200 for two\n\nDadar We",
+    "text": "Promoted\nThe Bigg Small Cafe + Bar\n4.5\n\nChinese, Continental, North Indian\n\n₹1,200 for two\n\nDadar West, Mumbai\n\nCloses in 54 minutes\n\n2.3 km",
+    "rating": "4.5",
+    "cuisine": "Chinese",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Altitude - All Veg. All Vibe. Kitchen & Bar\n4.4",
+    "text": "Altitude - All Veg. All Vibe. Kitchen & Bar\n4.4",
+    "rating": "4.4",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Pizza, Mexican, Asian, Italian, Sushi, Beverages, Fast Food, Modern Indian\n\n₹1,500 for two",
+    "text": "Pizza, Mexican, Asian, Italian, Sushi, Beverages, Fast Food, Modern Indian\n\n₹1,500 for two",
+    "rating": "",
+    "cuisine": "Mexican",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Chinese, Sushi, Asian, Japanese, Desserts\n\n₹2,500 for two",
+    "text": "Chinese, Sushi, Asian, Japanese, Desserts\n\n₹2,500 for two",
+    "rating": "",
+    "cuisine": "Chinese",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Goan, Street Food, Fast Food\n\n₹250 for two",
+    "text": "Goan, Street Food, Fast Food\n\n₹250 for two",
+    "rating": "",
+    "cuisine": "Fast Food",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Promoted\nBandra Born\n4.6\n\nModern Indian, Desserts\n\n₹2,200 for two\n\nBandstand, Bandra West, Mumbai\n\nC",
+    "text": "Promoted\nBandra Born\n4.6\n\nModern Indian, Desserts\n\n₹2,200 for two\n\nBandstand, Bandra West, Mumbai\n\nCloses in 24 minutes\n\n4.7 km",
+    "rating": "4.6",
+    "cuisine": "Indian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Pizza, Italian, Chinese, North Indian, Pasta, Finger Food, Continental, Asian\n\n₹2,500 for two",
+    "text": "Pizza, Italian, Chinese, North Indian, Pasta, Finger Food, Continental, Asian\n\n₹2,500 for two",
+    "rating": "",
+    "cuisine": "Italian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Salad, Continental, Italian, Asian, Desserts, Beverages, Bar Food\n\n₹1,500 for two",
+    "text": "Salad, Continental, Italian, Asian, Desserts, Beverages, Bar Food\n\n₹1,500 for two",
+    "rating": "",
+    "cuisine": "Continental",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Biryani, North Indian, Kebab, Mughlai, Desserts\n\n₹2,500 for two",
+    "text": "Biryani, North Indian, Kebab, Mughlai, Desserts\n\n₹2,500 for two",
+    "rating": "",
+    "cuisine": "North Indian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Once Upon A Dine Cafe\n4.2",
+    "text": "Once Upon A Dine Cafe\n4.2",
+    "rating": "4.2",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Cafe, Italian, Continental, Chinese, Grilled Chicken, Pasta, Beverages, Desserts\n\n₹900 for two",
+    "text": "Cafe, Italian, Continental, Chinese, Grilled Chicken, Pasta, Beverages, Desserts\n\n₹900 for two",
+    "rating": "",
+    "cuisine": "Italian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Mexican, Beverages, Desserts, American\n\n₹2,500 for two",
+    "text": "Mexican, Beverages, Desserts, American\n\n₹2,500 for two",
+    "rating": "",
+    "cuisine": "Mexican",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Amazonia\n4.1\n\nChinese, Asian, Japanese, Sushi, Italian, Korean, Salad, Seafood\n\n₹2,800 for two\n\nBand",
+    "text": "Amazonia\n4.1\n\nChinese, Asian, Japanese, Sushi, Italian, Korean, Salad, Seafood\n\n₹2,800 for two\n\nBandra Kurla Complex, Mumbai\n\nCloses in 54 minutes\n\n4.",
+    "rating": "4.1",
+    "cuisine": "Chinese",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Mediterranean, Italian, North Indian, Continental, Beverages, Desserts\n\n₹2,500 for two",
+    "text": "Mediterranean, Italian, North Indian, Continental, Beverages, Desserts\n\n₹2,500 for two",
+    "rating": "",
+    "cuisine": "Italian",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Explore options near me\n\nPopular cuisines near me\nPopular restaurant types near me\nExplore Dining Ci",
+    "text": "Explore options near me\n\nPopular cuisines near me\nPopular restaurant types near me\nExplore Dining Cities at Zomato\nRestaurants in Popular Locations\nDi",
+    "rating": "",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "FOR RESTAURANTS\n\nPartner With Us\n\nApps For You",
+    "text": "FOR RESTAURANTS\n\nPartner With Us\n\nApps For You",
+    "rating": "",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Sort byPopularityCuisinesRatingCost for twoMore filterschevron-downPopularityRating: High to LowCost",
+    "text": "Sort byPopularityCuisinesRatingCost for twoMore filterschevron-downPopularityRating: High to LowCost: Low to HighCost: High to LowDistanceClear allApp",
+    "rating": "",
+    "cuisine": "",
+    "city": "Mumbai",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:00.061Z"
+  },
+  {
+    "name": "Collections\nExplore curated lists of top restaurants, cafes, pubs, and bars in Delhi NCR, based on t",
+    "text": "Collections\nExplore curated lists of top restaurants, cafes, pubs, and bars in Delhi NCR, based on trends\nAll collections in Delhi NCR",
+    "rating": "",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Omakase Bars\n\n8 Places",
+    "text": "Omakase Bars\n\n8 Places",
+    "rating": "",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Secret Speakeasy Bars\n\n12 Places",
+    "text": "Secret Speakeasy Bars\n\n12 Places",
+    "rating": "",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Promoted\nPukhtaan - Legacy of Padma Shri Chef Imtiaz Qureshi\n4.0\n\nNorth Indian, Biryani, Kebab\n\n₹1,2",
+    "text": "Promoted\nPukhtaan - Legacy of Padma Shri Chef Imtiaz Qureshi\n4.0\n\nNorth Indian, Biryani, Kebab\n\n₹1,200 for two\n\nSatyaniketan, New Delhi\n\nCloses in 23 ",
+    "rating": "4.0",
+    "cuisine": "North Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Promoted\nFlat 15% OFF\nRoma by Unplugged\n4.1\n\nModern Indian, Continental, Italian, Mediterranean\n\n₹3,",
+    "text": "Promoted\nFlat 15% OFF\nRoma by Unplugged\n4.1\n\nModern Indian, Continental, Italian, Mediterranean\n\n₹3,000 for two\n\nConnaught Place, New Delhi\n\nCloses in",
+    "rating": "4.1",
+    "cuisine": "Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Ivoryy Fusion Bar\n4.4",
+    "text": "Ivoryy Fusion Bar\n4.4",
+    "rating": "4.4",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Cé La Vie Kitchen & Bar\n4.2",
+    "text": "Cé La Vie Kitchen & Bar\n4.2",
+    "rating": "4.2",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Promoted\nHavemore - Bikaner House\n4.5\n\nNorth Indian\n\n₹2,000 for two\n\nIndia Gate, New Delhi\n\nOpens at",
+    "text": "Promoted\nHavemore - Bikaner House\n4.5\n\nNorth Indian\n\n₹2,000 for two\n\nIndia Gate, New Delhi\n\nOpens at 12noon\n\n2.7 km",
+    "rating": "4.5",
+    "cuisine": "North Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Cafe, Fast Food\n\n₹2,200 for two",
+    "text": "Cafe, Fast Food\n\n₹2,200 for two",
+    "rating": "",
+    "cuisine": "Fast Food",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "38 Barracks\n4.5",
+    "text": "38 Barracks\n4.5",
+    "rating": "4.5",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Somewhere Restaurant & Bar\n4.2",
+    "text": "Somewhere Restaurant & Bar\n4.2",
+    "rating": "4.2",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.186Z"
+  },
+  {
+    "name": "Yeti - The Himalayan Kitchen\n4.1",
+    "text": "Yeti - The Himalayan Kitchen\n4.1",
+    "rating": "4.1",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Promoted\nThe Mandi Chowk - Biryani Kitchen\n4.3\n\nMandi, Biryani, Arabian, Mughlai, Seafood, Kebab, Sh",
+    "text": "Promoted\nThe Mandi Chowk - Biryani Kitchen\n4.3\n\nMandi, Biryani, Arabian, Mughlai, Seafood, Kebab, Shawarma, North Indian\n\n₹1,200 for two\n\nConnaught Pl",
+    "rating": "4.3",
+    "cuisine": "North Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Promoted\nDhaba - Estd 1986 Delhi\n4.2\n\nNorth Indian, Mughlai\n\n₹1,000 for two\n\nRajouri Garden, New Del",
+    "text": "Promoted\nDhaba - Estd 1986 Delhi\n4.2\n\nNorth Indian, Mughlai\n\n₹1,000 for two\n\nRajouri Garden, New Delhi\n\nCloses in 23 minutes\n\n9.2 km",
+    "rating": "4.2",
+    "cuisine": "North Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Covah - The Cavern\n4.1\n\nContinental, Middle Eastern, Mediterranean, Italian, Asian, Japanese, Salad,",
+    "text": "Covah - The Cavern\n4.1\n\nContinental, Middle Eastern, Mediterranean, Italian, Asian, Japanese, Salad, Bar Food\n\n₹3,000 for two\n\nSector 43, Gurgaon\n\nClo",
+    "rating": "4.1",
+    "cuisine": "Continental",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Cafe, Coffee, North Indian, Chinese, Asian, Continental, Biryani, Beverages\n\n₹1,500 for two",
+    "text": "Cafe, Coffee, North Indian, Chinese, Asian, Continental, Biryani, Beverages\n\n₹1,500 for two",
+    "rating": "",
+    "cuisine": "North Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Promoted\nIndus Flavour (Proudly Vegetarian)\n4.1\n\nNorth Indian, Street Food, Desserts, Beverages, Cof",
+    "text": "Promoted\nIndus Flavour (Proudly Vegetarian)\n4.1\n\nNorth Indian, Street Food, Desserts, Beverages, Coffee\n\n₹1,100 for two\n\nNetaji Subhash Place, New Del",
+    "rating": "4.1",
+    "cuisine": "North Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Comorin\n4.7\n\nNorth Indian, Modern Indian, South Indian, Seafood, Desserts\n\n₹3,000 for two\n\nGolf Cour",
+    "text": "Comorin\n4.7\n\nNorth Indian, Modern Indian, South Indian, Seafood, Desserts\n\n₹3,000 for two\n\nGolf Course Road, Gurgaon\n\nCloses in 23 minutes\n\n22.3 km",
+    "rating": "4.7",
+    "cuisine": "North Indian",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Explore options near me\n\nPopular cuisines near me\nPopular restaurant types near me\nExplore Dining Ci",
+    "text": "Explore options near me\n\nPopular cuisines near me\nPopular restaurant types near me\nExplore Dining Cities at Zomato\nRestaurants in Popular Locations\nDi",
+    "rating": "",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "FOR RESTAURANTS\n\nPartner With Us\n\nApps For You",
+    "text": "FOR RESTAURANTS\n\nPartner With Us\n\nApps For You",
+    "rating": "",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "Sort byPopularityCuisinesRatingCost for twoMore filterschevron-downPopularityRating: High to LowCost",
+    "text": "Sort byPopularityCuisinesRatingCost for twoMore filterschevron-downPopularityRating: High to LowCost: Low to HighCost: High to LowDistanceClear allApp",
+    "rating": "",
+    "cuisine": "",
+    "city": "Delhi",
+    "platform": "Zomato",
+    "scraped_at": "2025-09-13T19:07:10.187Z"
+  },
+  {
+    "name": "The 11 best things to do in Mumbai",
+    "city": "Mumbai",
+    "platform": "TimeOut",
+    "source": "heading",
+    "scraped_at": "2025-09-13T19:07:18.574Z"
+  },
+  {
+    "name": "Best things to do in Mumbai",
+    "city": "Mumbai",
+    "platform": "TimeOut",
+    "source": "heading",
+    "scraped_at": "2025-09-13T19:07:18.574Z"
+  },
+  {
+    "name": "1. Mumbai Film City",
+    "city": "Mumbai",
+    "platform": "TimeOut",
+    "source": "heading",
+    "scraped_at": "2025-09-13T19:07:18.574Z"
+  }
+]
